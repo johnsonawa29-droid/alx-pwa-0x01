@@ -1,8 +1,7 @@
-"dependencies": {
-  "@ducanh2912/next-pwa": "^10.2.9",
-  ...
-},
-"devDependencies": {
-  "webpack": "^5.94.0",
-  ...
+{
+  "name": "cine-seek",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ducanh2912/next-pwa": "^9.7.0"
+  }
 }
